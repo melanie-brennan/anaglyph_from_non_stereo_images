@@ -7,14 +7,16 @@ The results below use Scale Invariant Feature Transform (SIFT) for feature detec
 This project was completed as a Computational Photography assignment at Georgia Institute of Technology.
 
 ### Results
-![Motorcycle anaglyph](images/cropped_images/motorbike_small.jpg "Motorcycle anaglyph") 
-![Cyclops anaglyph](images/cropped_images/cyclops_small.jpg "Cyclops anaglyph") 
-![Sports oval anaglyph](images/cropped_images/oval_small.jpg "Sports oval anaglyph")
+![Motorcycle anaglyph](images/large_cropped_images/motorbike_large.jpg "Motorcycle anaglyph")
+
+![Cyclops anaglyph](images/large_cropped_images/cyclops_large.jpg "Cyclops anaglyph")
+
+![Sports oval anaglyph](images/large_cropped_images/oval_large.jpg "Sports oval anaglyph")
 
 
 ### Processing Pipeline
 ![Image processing Pipeline](images/md/image_processing_pipeline.png "Image processing pipeline")
-Motorbike example
+Motorbike pipeline example
 ![Motorbike pipeline](images/md/motorbike_processing.png "Motorbike image processsing")
 
 
