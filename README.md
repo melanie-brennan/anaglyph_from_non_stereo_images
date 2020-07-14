@@ -19,7 +19,16 @@ Motorbike pipeline
 ![Motorbike pipeline](images/md/motorbike_processing.png "Motorbike image processsing")
 
 
+
+
 ### Motorbikes
+
+Left photo            |  Right photo
+:-------------------------:|:-------------------------:
+![Motorcycle Image 1](images/source/motorbike/image1_small.jpg "Motorcycle picture 1") | ![Motorcycle Image 2](images/source/motorbike/image2_small.jpg "Motorcycle picture 2") 
+
+
+
 Left and right photos
 ![Motorcycle Image 1](images/source/motorbike/image1_small.jpg "Motorcycle picture 1") ![Motorcycle Image 2](images/source/motorbike/image2_small.jpg "Motorcycle picture 2")
 Computed anaglph and final result after cropping and rotation
