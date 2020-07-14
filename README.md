@@ -9,7 +9,8 @@ This project was completed as a Computational Photography assignment at Georgia 
 ### Results
 
 
-
+Left photo            |  Right photo |
+:-------------------------:|:-------------------------: |:-------------------------:
 ![Motorcycle anaglyph](images/final_cropped_images/cropped_motorbike.jpg "Motorcycle anaglyph") | ![Cyclops anaglyph](images/final_cropped_images/cropped_cyclops.jpg "Cyclops anaglyph") | ![Sports oval anaglyph](images/final_cropped_images/cropped_oval.jpg "Sports oval anaglyph")
 
 ### Processing Pipeline
