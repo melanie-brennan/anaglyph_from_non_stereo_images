@@ -20,14 +20,10 @@ Motorbike pipeline
 
 
 ### Motorbikes
-Left photo
-![Motorcycle Image 1](images/source/motorbike/image1_small.jpg "Motorcycle picture 1")
-Right photo
-![Motorcycle Image 2](images/source/motorbike/image2_small.jpg "Motorcycle picture 2")
-Anaglyph
-![Motorcycle new_anaglyph](images/output/motorbike/anaglyph_new.jpg "Motorcycle anaglyph")
-Final result after rotation and cropping
-![Motorcycle anaglyph](images/final_cropped_images/cropped_motorbike.jpg "Motorcycle anaglyph")
+Left and right photos
+![Motorcycle Image 1](images/source/motorbike/image1_small.jpg "Motorcycle picture 1") ![Motorcycle Image 2](images/source/motorbike/image2_small.jpg "Motorcycle picture 2")
+Computed anaglph and final result after cropping and rotation
+![Motorcycle new_anaglyph](images/output/motorbike/anaglyph_new.jpg "Motorcycle anaglyph") ![Motorcycle anaglyph](images/final_cropped_images/cropped_motorbike.jpg "Motorcycle anaglyph")
 
 
 ### Cyclops statue
