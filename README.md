@@ -8,6 +8,11 @@ This project was completed as a Computational Photography assignment at Georgia 
 
 ### Results
 
+![Motorcycle Image 1](images/source/motorbike/image1_small.jpg "Motorcycle picture 1") | ![Motorcycle Image 2](images/source/motorbike/image2_small.jpg "Motorcycle picture 2") 
+Computed anaglyph            |  After rotation and cropping
+![Motorcycle new_anaglyph](images/output/motorbike/anaglyph_new.jpg "Motorcycle anaglyph") | ![Motorcycle anaglyph](images/final_cropped_images/cropped_motorbike.jpg "Motorcycle anaglyph")
+
+
 
 Left photo            |  Right photo |
 :-------------------------:|:-------------------------: |:-------------------------:
