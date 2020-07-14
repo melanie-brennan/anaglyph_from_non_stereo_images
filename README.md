@@ -21,34 +21,30 @@ Motorbike pipeline example
 
 
 ### Motorbikes
-
 Left photo                 |  Right photo
 :-------------------------:|:-------------------------:
 ![Motorcycle Image 1](images/source/motorbike/image1_small.jpg "Motorcycle picture 1") | ![Motorcycle Image 2](images/source/motorbike/image2_small.jpg "Motorcycle picture 2") 
-:-------------------------:|:-------------------------:
-Computed anaglyph            |  After rotation and cropping
-:-------------------------:|:-------------------------:
+Computed anaglyph          |  After rotation and cropping
 ![Motorcycle new_anaglyph](images/output/motorbike/anaglyph_new.jpg "Motorcycle anaglyph") | ![Motorcycle anaglyph](images/cropped_images/motorbike_small.jpg "Motorcycle anaglyph")
 
 
 ### Cyclops statue
-Left photo            |  Right photo
+Left photo                 |  Right photo
+:-------------------------:|:-------------------------:
 ![Cyclops Image 1](images/source/cyclops/image1_small.jpg "Cyclops picture 1") | ![Cyclops Image 2](images/source/cyclops/image2_small.jpg "Cyclops picture 2") 
-Computed anaglyph            |  After rotation and cropping
+Computed anaglyph          |  After rotation and cropping
 ![Cyclops new_anaglyph](images/output/cyclops/anaglyph_new.jpg "Cyclops anaglyph") | ![Cyclops anaglyph](images/cropped_images/cyclops_small.jpg "Cyclops anaglyph")
 
+
 ### Sports Oval
-Left photo
-![Sports oval Image 1](images/source/oval/image1_small.jpg "Oval picture 1")
-Right photo
-![Sports oval Image 2](images/source/oval/image2_small.jpg "Oval picture 2")
-Anaglyph
-![Sports oval new_anaglyph](images/output/oval/anaglyph_new.jpg "Oval anaglyph")
-Final result after rotation and cropping
-![Cyclops anaglyph](images/final_cropped_images/cropped_oval.jpg "Oval anaglyph")
+Left photo                 |  Right photo
+:-------------------------:|:-------------------------:
+![Sports oval Image 1](images/source/oval/image1_small.jpg "Oval picture 1") | ![Sports oval Image 2](images/source/oval/image2_small.jpg "Oval picture 2")
+Computed anaglyph          |  After rotation and cropping
+![Sports oval new_anaglyph](images/output/oval/anaglyph_new.jpg "Oval anaglyph") | ![Cyclops anaglyph](images/final_cropped_images/cropped_oval.jpg "Oval anaglyph")
+
 
 ### References
-
 Blue Lightning TV Photoshop, 2013, Photoshop Tutorial: How to Make Jaw-dropping, 3-D Anaglyphs from Photos, online video, accessed 27 Nov 2017, https://www.youtube.com/watch?v=Mh5qiCvaS0o
 
 Hartley, R. and Zisserman, A., 2003. Multiple view geometry in computer vision. Cambridge University Press.
