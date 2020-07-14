@@ -1,12 +1,12 @@
 ## Rectifying Non-Stereo Images to Make Anaglyphs
 
-This repository uses two images of a scene to create an anaglyph.  Instead of using images taken with a stereo set up, the two images can be taken with handheld camera.  The images are then rectified to create an anaglyph that appears 3D when viewed with red/cyan glasses.
+This repository uses two images of a scene to create an anaglyph.  Instead of using images taken with a stereo set up, the two images can be taken with a handheld camera.  The images are then rectified to create an anaglyph that appears 3D when viewed with red/cyan glasses.
 
 The results below use Scale Invariant Feature Transform (SIFT) for feature detection combined with Fast Library for Approximate Nearest Neighbors (FLANN) for feature matching.
 
 This project was completed as a Computational Photography assignment at Georgia Institute of Technology.
 
-###Results
+### Results
 ![Motorcycle anaglyph](images/final_cropped_images/cropped_motorbike.jpg "Motorcycle anaglyph")
 
 ![Cyclops anaglyph](images/final_cropped_images/cropped_cyclops.jpg "Cyclops anaglyph")
@@ -19,7 +19,7 @@ Motorbike pipeline
 ![Motorbike pipeline](images/md/motorbike_processing.png "Motorbike image processsing")
 
 
-###Motorbikes
+### Motorbikes
 Left photo
 ![Motorcycle Image 1](images/source/motorbike/image1_small.jpg "Motorcycle picture 1")
 Right photo
@@ -30,7 +30,7 @@ Final result after rotation and cropping
 ![Motorcycle anaglyph](images/final_cropped_images/cropped_motorbike.jpg "Motorcycle anaglyph")
 
 
-###Cyclops statue
+### Cyclops statue
 Left photo
 ![Cyclops Image 1](images/source/cyclops/image1_small.jpg "Cyclops picture 1")
 Right photograph
@@ -40,7 +40,7 @@ Anaglyph
 Final result after rotation and cropping
 ![Cyclops anaglyph](images/final_cropped_images/cropped_cyclops.jpg "Cyclops anaglyph")
 
-###Sports Oval
+### Sports Oval
 Left photo
 ![Sports oval Image 1](images/source/oval/image1_small.jpg "Oval picture 1")
 Right photo
@@ -50,7 +50,7 @@ Anaglyph
 Final result after rotation and cropping
 ![Cyclops anaglyph](images/final_cropped_images/cropped_oval.jpg "Oval anaglyph")
 
-###References
+### References
 
 Blue Lightning TV Photoshop, 2013, Photoshop Tutorial: How to Make Jaw-dropping, 3-D Anaglyphs from Photos, online video, accessed 27 Nov 2017, https://www.youtube.com/watch?v=Mh5qiCvaS0o
 
