@@ -7,9 +7,10 @@ The results below use Scale Invariant Feature Transform (SIFT) for feature detec
 This project was completed as a Computational Photography assignment at Georgia Institute of Technology.
 
 ### Results
+![Motorcycle anaglyph](images/cropped_images/motorbike_small.jpg "Motorcycle anaglyph") 
+![Cyclops anaglyph](images/cropped_images/cyclops_small.jpg "Cyclops anaglyph") 
+![Sports oval anaglyph](images/cropped_images/oval_small.jpg "Sports oval anaglyph")
 
-
-![Motorcycle anaglyph](images/cropped_images/motorbike_small.jpg "Motorcycle anaglyph") | ![Cyclops anaglyph](images/cropped_images/cyclops_small.jpg "Cyclops anaglyph") | ![Sports oval anaglyph](images/cropped_images/oval_small.jpg "Sports oval anaglyph")
 
 ### Processing Pipeline
 ![Image processing Pipeline](images/md/image_processing_pipeline.png "Image processing pipeline")
@@ -17,28 +18,19 @@ Motorbike example
 ![Motorbike pipeline](images/md/motorbike_processing.png "Motorbike image processsing")
 
 
-
-
 ### Motorbikes
 
 Left photo            |  Right photo
-:-------------------------:|:-------------------------:
 ![Motorcycle Image 1](images/source/motorbike/image1_small.jpg "Motorcycle picture 1") | ![Motorcycle Image 2](images/source/motorbike/image2_small.jpg "Motorcycle picture 2") 
-:-------------------------:|:-------------------------:
 Computed anaglyph            |  After rotation and cropping
-:-------------------------:|:-------------------------:
-![Motorcycle new_anaglyph](images/output/motorbike/anaglyph_new.jpg "Motorcycle anaglyph") | ![Motorcycle anaglyph](images/final_cropped_images/cropped_motorbike.jpg "Motorcycle anaglyph")
+![Motorcycle new_anaglyph](images/output/motorbike/anaglyph_new.jpg "Motorcycle anaglyph") | ![Motorcycle anaglyph](images/cropped_images/motorbike_small.jpg "Motorcycle anaglyph")
 
 
 ### Cyclops statue
-Left photo
-![Cyclops Image 1](images/source/cyclops/image1_small.jpg "Cyclops picture 1")
-Right photograph
-![Cyclops Image 2](images/source/cyclops/image2_small.jpg "Cyclops picture 2")
-Anaglyph
-![Cyclops new_anaglyph](images/output/cyclops/anaglyph_new.jpg "Cyclops anaglyph")
-Final result after rotation and cropping
-![Cyclops anaglyph](images/final_cropped_images/cropped_cyclops.jpg "Cyclops anaglyph")
+Left photo            |  Right photo
+![Cyclops Image 1](images/source/cyclops/image1_small.jpg "Cyclops picture 1") | ![Cyclops Image 2](images/source/cyclops/image2_small.jpg "Cyclops picture 2") 
+Computed anaglyph            |  After rotation and cropping
+![Cyclops new_anaglyph](images/output/cyclops/anaglyph_new.jpg "Cyclops anaglyph") | ![Cyclops anaglyph](images/cropped_images/cyclops_small.jpg "Cyclops anaglyph")
 
 ### Sports Oval
 Left photo
