@@ -41,7 +41,7 @@ Left photo                 |  Right photo
 :-------------------------:|:-------------------------:
 ![Sports oval Image 1](images/source/oval/image1_small.jpg "Oval picture 1") | ![Sports oval Image 2](images/source/oval/image2_small.jpg "Oval picture 2")
 Computed anaglyph          |  After rotation and cropping
-![Sports oval new_anaglyph](images/output/oval/anaglyph_new.jpg "Oval anaglyph") | ![Cyclops anaglyph](images/final_cropped_images/cropped_oval.jpg "Oval anaglyph")
+![Sports oval new_anaglyph](images/output/oval/anaglyph_new.jpg "Oval anaglyph") | ![Cyclops anaglyph](images/cropped_images/oval_small.jpg "Oval anaglyph")
 
 
 ### References
